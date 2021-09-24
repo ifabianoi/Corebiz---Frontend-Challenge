@@ -16,8 +16,8 @@
 
 ## 👨🏻‍💻Sobre o desafio
 Desenvolver uma página baseando-se no layout e APIs abaixo.
-Link do layout: https://www.figma.com/file/awhTJyKgrjEOqPHUrrFBv0/Corebiz---Frontend-Challenge
-Link das APIs: https://documenter.getpostman.com/view/1811817/Szzj8yAq?version=latest
+- Link do layout: https://www.figma.com/file/awhTJyKgrjEOqPHUrrFBv0/Corebiz---Frontend-Challenge
+- Link das APIs: https://documenter.getpostman.com/view/1811817/Szzj8yAq?version=latest
 
 ### Passo 1
 - Use a API de produtos para pegar os dados dos produtos e
@@ -41,10 +41,15 @@ API de newsletter seguindo as especificações da API.
 - [Axios](https://www.npmjs.com/package/axios)
 ## 💻Projeto
 ### Requisitos
-- [Git](https://git-scm.com/downloads);
-- [Node.js](https://nodejs.org/en/download/);
+- [Git](https://git-scm.com/downloads)
+- [Node.js](https://nodejs.org/en/download/)
 - [NPM](https://yarnpkg.com/getting-started/install)
 ### Executando o projeto localmente
+
+```bash
+$ git clone https://github.com/ifabianoi/Corebiz---Frontend-Challenge.git
+```
+
 ```bash
 $ yarn install
 ```
@@ -55,7 +60,7 @@ $ yarn start
 ```
 ## ⚙️Funcionalidades
 - [ ] <b>Axios:</b> <i>Usado para o tratamento do consumo dos serviços da API </i>
-- [ ] <b>Inserir itens no carrinho de compras</b>
-- [ ] <b>Manter produtos ao atualizar a página</b>
-- [ ] <b>Validação de Formulário</b>
-- [ ] <b>Consumir API informada para envio de Leads</b>
+- [ ] <b></b><i>Inserir itens no carrinho de compras</i>
+- [ ] <b></b><i>Manter produtos ao atualizar a página</i>
+- [ ] <b></b><i>Validação de Formulário</i>
+- [ ] <b></b><i>Consumir API informada para envio de Leads</i>
