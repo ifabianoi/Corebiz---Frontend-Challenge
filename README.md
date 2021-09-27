@@ -11,7 +11,7 @@
   <a href="#sobre o desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8Ffuncionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 👨🏻‍💻Sobre o desafio
@@ -41,7 +41,7 @@ API de newsletter seguindo as especificações da API.
 - [Axios](https://www.npmjs.com/package/axios)
 ## 💻Projeto
 
-
+[Ver projeto na Netlify](https://ifabianoi-corebiz-ecommerce.netlify.app/)
 
 ### Executando o projeto localmente
 ### Requisitos
