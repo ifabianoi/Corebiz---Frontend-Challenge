@@ -39,6 +39,8 @@ API de newsletter seguindo as especificações da API.
 - [Java Script](https://www.javascript.com)
 - [React](https://reactjs.org)
 - [Axios](https://www.npmjs.com/package/axios)
+- [Webpack](https://webpack.js.org/)
+
 ## 💻Projeto
 
 [Ver projeto na Netlify](https://ifabianoi-corebiz-ecommerce.netlify.app/)
@@ -69,3 +71,4 @@ $ yarn start
 - [X] <b>localStorage (@corebiz:products): </b><i>Manter produtos ao atualizar a página</i>
 - [X] <b>Yup e Unform: </b><i>Validação de Formulário</i>
 - [X] <b>Axios: </b><i>Consumir API informada para envio de Leads</i>
+- [X] <b>Webpack: </b><i>Automação de tarefas</i>
