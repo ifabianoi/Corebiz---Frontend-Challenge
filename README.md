@@ -46,10 +46,12 @@ API de newsletter seguindo as especificações da API.
 - [NPM](https://yarnpkg.com/getting-started/install)
 ### Executando o projeto localmente
 
+Clonar o repositório
 ```bash
 $ git clone https://github.com/ifabianoi/Corebiz---Frontend-Challenge.git
 ```
 
+Instalar as dependências
 ```bash
 $ yarn install
 ```
@@ -59,8 +61,8 @@ $ yarn install
 $ yarn start
 ```
 ## ⚙️Funcionalidades
-- [ ] <b>Axios:</b> <i>Usado para o tratamento do consumo dos serviços da API </i>
-- [ ] <b></b><i>Inserir itens no carrinho de compras</i>
-- [ ] <b></b><i>Manter produtos ao atualizar a página</i>
-- [ ] <b></b><i>Validação de Formulário</i>
-- [ ] <b></b><i>Consumir API informada para envio de Leads</i>
+- [X] <b>Axios:</b> <i>Usado para o tratamento do consumo dos serviços da API </i>
+- [X] <b>localStorage (@corebiz:products): </b><i>Inserir itens no carrinho de compras</i>
+- [X] <b>localStorage (@corebiz:products): </b><i>Manter produtos ao atualizar a página</i>
+- [X] <b>Yup e Unform: </b><i>Validação de Formulário</i>
+- [X] <b>Axios: </b><i>Consumir API informada para envio de Leads</i>
