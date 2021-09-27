@@ -40,11 +40,14 @@ API de newsletter seguindo as especificações da API.
 - [React](https://reactjs.org)
 - [Axios](https://www.npmjs.com/package/axios)
 ## 💻Projeto
+
+
+
+### Executando o projeto localmente
 ### Requisitos
 - [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/en/download/)
 - [NPM](https://yarnpkg.com/getting-started/install)
-### Executando o projeto localmente
 
 Clonar o repositório
 ```bash
