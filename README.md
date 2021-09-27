@@ -53,17 +53,17 @@ API de newsletter seguindo as especificações da API.
 
 Clonar o repositório
 ```bash
-$ git clone https://github.com/ifabianoi/Corebiz---Frontend-Challenge.git
+git clone https://github.com/ifabianoi/Corebiz---Frontend-Challenge.git
 ```
 
 Instalar as dependências
 ```bash
-$ yarn install
+yarn install
 ```
 
 ### Executando a aplicação
 ```bash
-$ yarn start
+yarn start
 ```
 ## ⚙️Funcionalidades
 - [X] <b>Axios:</b> <i>Usado para o tratamento do consumo dos serviços da API </i>
