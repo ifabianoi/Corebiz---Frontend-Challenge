@@ -60,11 +60,22 @@ Instalar as dependências
 ```bash
 yarn install
 ```
+ou
+```bash
+npm install
+```
 
 ### Executando a aplicação
 ```bash
 yarn start
 ```
+ou
+```bash
+npm start
+```
+
+Acesse o endereço [http://localhost:5001](http://localhost:5001) para visualizar em seu navegador.
+
 ## ⚙️Funcionalidades
 - [X] <b>Axios:</b> <i>Usado para o tratamento do consumo dos serviços da API </i>
 - [X] <b>localStorage (@corebiz:products): </b><i>Inserir itens no carrinho de compras</i>
